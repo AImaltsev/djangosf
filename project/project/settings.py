@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "fpages",
+    "simpleapp",
 ]
 
 SITE_ID = 1
